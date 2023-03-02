@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syaire-cungks.github.io/cungks-1/sitemap.xml
